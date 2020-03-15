@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo:   Curso: 2019/20 
 
 Proyecto: 
 
@@ -10,8 +10,7 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Nicolás Rodríguez Hernández-Carrillo
 
 ----- 
 
@@ -29,19 +28,22 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
-
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+
+Unos de los hobbies que mas han crecido en los últimos tiempos han sido el de viajar, ya sea por territorio nacional o al extranjero, por eso creo que era una buena opción que escoger.
+La aplicación que he escogido es Nomadizers, ya que es una herramienta perfecta para poder compartir los viajes con otras personas con las mismas características que tu.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+
+He elegido a estas personas para poder abarcar edades y localizaciones diferentes
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
-
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+
+Es muy habitual hoy en dia compartir viajes con otras personas con tus mismas caracteristicas
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
